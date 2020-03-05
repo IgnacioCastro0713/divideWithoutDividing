@@ -9,7 +9,7 @@ public class Main {
 
     }
 
-    public static int divideWithoutDividing(float dividend, float divider) {
+    public static int divideWithoutDividing(int dividend, int divider) {
         int quotient = 0;
 
         while (dividend > 0) {
